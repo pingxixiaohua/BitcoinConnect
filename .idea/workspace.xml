@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67c9880c-dbb9-4ad1-83ac-d7fe096f8efe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1lAhp60GEJmH5KsXoeDh0repKDn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Download/Software/weixin/storage/WeChat Files/wxid_yiui2z3oz39122/FileStorage/File/2020-12/BitcoinConnection/BitcoinConnection" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\工信部Java高级工程师\newJava\newProjects\BitcoinConnect\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestBc">
+    <configuration name="BTCConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.btc.rpc.BTCConnection" />
+      <module name="BitcoinConnect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btc.rpc.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.btc.rpc.demo.EnumDemo" />
+      <module name="BitcoinConnect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btc.rpc.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.btc.rpc.demo.MapDemo" />
+      <module name="BitcoinConnect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btc.rpc.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.btc.rpc.TestBc" />
+      <module name="BitcoinConnect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btc.rpc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestBc" />
+        <item itemvalue="Application.EnumDemo" />
+        <item itemvalue="Application.BTCConnection" />
+        <item itemvalue="Application.MapDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67c9880c-dbb9-4ad1-83ac-d7fe096f8efe" name="Default Changelist" comment="" />
+      <created>1607045984501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607045984501</updated>
+      <workItem from="1607045989655" duration="6562000" />
+      <workItem from="1607252463335" duration="6412000" />
+      <workItem from="1607321120469" duration="6819000" />
+      <workItem from="1607339460593" duration="7578000" />
+      <workItem from="1607392504019" duration="7508000" />
+      <workItem from="1607493975622" duration="11385000" />
+      <workItem from="1607518529456" duration="9059000" />
+      <workItem from="1607595959612" duration="6009000" />
+      <workItem from="1607855549841" duration="13026000" />
+      <workItem from="1607906136558" duration="14000" />
+      <workItem from="1607906185575" duration="1716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1022" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1607867609449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1022" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1607867609449" />
+    <state x="963" y="302" width="429" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607513226849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="963" y="302" width="429" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1607513226849" />
+    <state x="882" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607865593949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="882" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607865593949" />
+    <state x="939" y="170" key="FileChooserDialogImpl" timestamp="1607521411303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="939" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607521411303" />
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom" timestamp="1607867955113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607867955113" />
+    <state width="1493" height="219" key="GridCell.Tab.0.center" timestamp="1607867955112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607867955112" />
+    <state width="1493" height="219" key="GridCell.Tab.0.left" timestamp="1607867955112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607867955112" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right" timestamp="1607867955112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607867955112" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607863685601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607863685601" />
+  </component>
+</project>
